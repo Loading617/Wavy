@@ -1,2 +1,2 @@
 # Wavy
-Music Visualizer Chrome Extension
+A Music Visualizer Extension for the Web
